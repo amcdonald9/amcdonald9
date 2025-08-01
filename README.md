@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I’m Angelia
 
-<!--
-**amcdonald9/amcdonald9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m learning and building with different tools and languages every day.  
+Right now I mostly work with HTML, CSS, JavaScript, Python, and Vue, but I’m adding more as I go, including React and others.  
 
-Here are some ideas to get you started:
+I like solving problems and sharing what I learn along the way.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills I’m working with  
+HTML CSS JavaScript Vue React Python Django SQL Git WordPress Bootstrap  
+
+## 📂 Projects so far  
+A handful of small apps like feedback forms, quizzes, password generators, dashboards, and weather apps.  
+
+I’m organizing and uploading these as I continue building and improving.  
+
+## 🎯 What I’m focused on now  
+Learning full stack development  
+Exploring IT projects and hardware repairs  
+Building projects that help me grow and stay consistent  
+
+---
+
+Here’s a little joke for anyone reading this  
+
+💡 Why do programmers prefer dark mode? Because light attracts bugs.
