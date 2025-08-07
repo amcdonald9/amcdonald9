@@ -1,25 +1,39 @@
 # 👋 Hi, I’m Angelia
 
-I’m learning and building with different tools and languages every day.  
-Right now I mostly work with HTML, CSS, JavaScript, Python, and Vue, but I’m adding more as I go, including React and others.  
+I’m learning and building with different tools and languages every day. Right now, I mostly work with HTML, CSS, JavaScript, Python, and Vue, and I’m actively expanding my stack to include React, Django, and more.
 
-I like solving problems and sharing what I learn along the way.  
+I enjoy solving real problems, building small projects, and sharing what I learn along the way.
 
-## 🛠 Skills I’m working with  
-HTML CSS JavaScript Vue React Python Django SQL Git WordPress Bootstrap  
+⸻
 
-## 📂 Projects so far  
-A handful of small apps like feedback forms, quizzes, password generators, dashboards, and weather apps.  
+🛠 Tools and Technologies
+	•	Languages: HTML, CSS, JavaScript, Python, SQL
+	•	Frameworks/Libraries: Vue, React, Django, Bootstrap
+	•	Tools: Git, WordPress, VS Code
 
-I’m organizing and uploading these as I continue building and improving.  
+⸻
 
-## 🎯 What I’m focused on now  
-Learning full stack development  
-Exploring IT projects and hardware repairs  
-Building projects that help me grow and stay consistent  
+📂 Projects in Progress
 
----
+So far, I’ve built a handful of small applications, including:
+	•	Feedback forms
+	•	Quizzes
+	•	Password generators
+	•	Dashboards
+	•	Weather apps
 
-Here’s a little joke for anyone reading this  
+I’m in the process of organizing and uploading these as I continue to build and improve them.
 
-💡 Why do programmers prefer dark mode? Because light attracts bugs.
+⸻
+
+🎯 What I’m Focusing On
+	•	Learning full stack development
+	•	Exploring IT concepts and hardware repair
+	•	Building projects that help me grow and stay consistent
+
+⸻
+
+☕ Just for fun
+
+Why do programmers prefer dark mode?
+Because light attracts bugs.
