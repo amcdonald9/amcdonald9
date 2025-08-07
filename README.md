@@ -7,6 +7,7 @@ I enjoy solving real problems, building small projects, and sharing what I learn
 ⸻
 
 🛠 Tools and Technologies
+
 	•	Languages: HTML, CSS, JavaScript, Python, SQL
 	•	Frameworks/Libraries: Vue, React, Django, Bootstrap
 	•	Tools: Git, WordPress, VS Code
