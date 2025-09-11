@@ -1,4 +1,4 @@
-👋 Hi, I'm Angelia.
+### 👋 Hi, I'm Angelia.
 
 I'm a dedicated **technical professional** and **lifelong learner** passionate about blending technology with empathy to create meaningful solutions. My professional experience in IT support, customer success, and operations is the foundation for the projects I build here.
 
